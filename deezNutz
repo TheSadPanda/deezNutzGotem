@@ -1,0 +1,11 @@
+let word = "Arrow" || "Harken"
+//insert random words Brandon has said "deez nutz" in response too"
+
+function deezNutz(){
+	console.log("Deez nutz, hah, got em");
+}
+
+// Literally just a place to store the "Deez nuts got em"
+deezNutz("Harken")
+
+// Where the magic happens.
