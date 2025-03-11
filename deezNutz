@@ -1,4 +1,4 @@
-let word = "Arrow" || "Harken"
+let word = "Arrow" || "Harken" || "Manhattan"
 //insert random words Brandon has said "deez nutz" in response too"
 
 function deezNutz(){
