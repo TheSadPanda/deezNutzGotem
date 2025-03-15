@@ -4,8 +4,7 @@ let word = "Arrow" || "Harken" || "Manhattan" || "Don't have" || "Smarmy these n
 function deezNutz(){
 	console.log("Deez nutz, hah, got em");
 }
-
 // Literally just a place to store the "Deez nuts got em"
-deezNutz("Harken")
 
+deezNutz("Harken")
 // Where the magic happens.
