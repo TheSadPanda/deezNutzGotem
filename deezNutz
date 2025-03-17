@@ -1,8 +1,8 @@
-let word = "Arrow" || "Harken" || "Manhattan" || "Don't have" || "Smarmy these nuts"
+let word = "Arrow" || "Harken" || "Manhattan" || "Don't have" || "Smarmy these nuts" || "Deeds nuts"
 //insert random words Brandon has said "deez nutz" in response too"
 
 function deezNutz(){
-	console.log("Deez nutz, hah, got em");
+	console.log("Deez nutz, got em");
 }
 // Literally just a place to store the "Deez nuts got em"
 
